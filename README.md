@@ -75,7 +75,7 @@ Every time you push changes to the `main` branch, the site will automatically up
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/debjit699971/portfolio.git
+   git clone https://github.com/debjitdas8522/Portfolio-Debjit.git
 
 ## 📬 Contact Me
 📧 Email: **debjitdas8522@gmail.com**  
