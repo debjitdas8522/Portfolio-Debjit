@@ -67,7 +67,7 @@ It showcases my skills, projects, education, certificates, and contact informati
 This portfolio is deployed using **GitHub Pages**.  
 Every time you push changes to the `main` branch, the site will automatically update at:
 
-👉 **https://debjit699971.github.io/portfolio/**
+👉 **https://debjitdas8522.github.io/Portfolio-Debjit/**
 
 ---
 
@@ -78,9 +78,9 @@ Every time you push changes to the `main` branch, the site will automatically up
    git clone https://github.com/debjit699971/portfolio.git
 
 ## 📬 Contact Me
-📧 Email: **debjitdas8422@gmail.com**  
+📧 Email: **debjitdas8522@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/debjit-das2003](https://www.linkedin.com/in/debjit-das2003)  
-💻 GitHub: [github.com/debjit699971](https://github.com/debjit699971)
+💻 GitHub: [github.com/debjitdas8522](https://github.com/debjitdas8522)
 
 ---
 
